@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68da057-1238-4d45-8ed2-3dbda49a5bc8" name="Changes" comment="Add README">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Devs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="f68da057-1238-4d45-8ed2-3dbda49a5bc8" name="Changes" comment="Criada as classes Mentoria e Curso">
+      <change afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Devs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ao/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +28,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "QuixindoDev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;QuixindoDev&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/QuixindoDev/desafio-dio-poo.git",
-    "accountId": "685a58da-050d-46cb-900c-f98ae485ad8d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/QuixindoDev/desafio-dio-poo.git&quot;,
+    &quot;accountId&quot;: &quot;685a58da-050d-46cb-900c-f98ae485ad8d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2lPyXTKF2j0ACIHvC31CQU1R6ll" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -83,12 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725096988920</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criada as classes Mentoria e Curso">
+      <option name="closed" value="true" />
+      <created>1725103603453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725103603453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Add README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README" />
+    <MESSAGE value="Criada as classes Mentoria e Curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criada as classes Mentoria e Curso" />
   </component>
 </project>
